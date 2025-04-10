@@ -25,7 +25,7 @@
   - 핵심 게임 요소들의 종류와 기능 구현 ( 적 / 적 기술 / 스킬 / 아이템 )
   - 자주 사용되는 기능을 정적클래스의 유틸함수로 구현
   - 사용자 설정 기능 - AudioMixer와 PlayerPrefs 사용
-  - Dotween을 사용한 각 종 연출
+  - Dotween을 사용한 각 종 연출 및 UI
   - 협업 중심 구조 설계 - ScriptableObject와 SerializableDictionary를 사용하여 비개발 직군도 편하게 값 수정 가능
   - Billboard 기능 구현
     
